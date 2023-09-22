@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "中文可以吗"
+title: "Yunjie Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
