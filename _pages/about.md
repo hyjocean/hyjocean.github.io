@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## `<i class="fa fa-id-card" aria-hidden="true"></i>` About Me
+## `<i class="fa fa-id-card" aria-hidden="true"></i>` About Me ##
 
-I am a first-year Ph.D. student at HKUST (GZ), advised by Prof. `<a href="https://sites.google.com/view/leili">`Lei Li `</a>`. Before that, I was advised by Prof. [Yu](https://jamesyu.me) and Prof. [Zuozhu Liu](https://person.zju.edu.cn/lzz) at Southern University of Science and Technology (Shenzhen, China), and received my M.S. degree in 2023.
+I am a first-year Ph.D. student at HKUST (GZ), advised by Prof. `<a href="https://sites.google.com/view/leili">`Lei Li`</a>`. Before that, I was advised by Prof. [Yu](https://jamesyu.me) and Prof. [Zuozhu Liu](https://person.zju.edu.cn/lzz) at Southern University of Science and Technology (Shenzhen, China), and received my M.S. degree in 2023.
 
 I am interested in Spatial-Temporal Data Analysis, Graph Learning.
 
-## `<i class="fa fa-rocket" aria-hidden="true"></i>` Recent News
+## `<i class="fa fa-rocket" aria-hidden="true"></i>` Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
@@ -25,7 +25,7 @@ I am interested in Spatial-Temporal Data Analysis, Graph Learning.
 
 </ul>
 
-## `<i class="fa fa-graduation-cap" aria-hidden="true"></i>` Publications
+
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Publications ##
 <table style="border: none; border-collapse: collapse;" border="0">
