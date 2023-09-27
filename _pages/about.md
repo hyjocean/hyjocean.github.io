@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
 
-I am a first-year Ph.D. student at HKUST (GZ), advised by Prof. `<a href="https://sites.google.com/view/leili">`Lei Li`</a>`. Before that, I was advised by Prof. [Yu](https://jamesyu.me) and Prof. [Zuozhu Liu](https://person.zju.edu.cn/lzz) at Southern University of Science and Technology (Shenzhen, China), and received my M.S. degree in 2023.
+I am a first-year Ph.D. student at HKUST (GZ), advised by Prof. <a href="https://sites.google.com/view/leili">`Lei Li`</a>. Before that, I was advised by Prof. [Yu](https://jamesyu.me) at Southern University of Science and Technology (Shenzhen, China), and received my M.S. degree in 2023.
 
 I am interested in Spatial-Temporal Data Analysis, Graph Learning.
 
